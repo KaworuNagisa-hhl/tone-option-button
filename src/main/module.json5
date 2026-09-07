@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "tone_option_button",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}
