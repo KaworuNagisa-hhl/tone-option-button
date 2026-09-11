@@ -14,16 +14,6 @@
 ohpm install tone-option-button
 ```
 
-本地源码依赖：
-
-```json5
-{
-  "dependencies": {
-    "tone-option-button": "file:../tone-option-button",
-    "theme": "file:../theme"
-  }
-}
-```
 
 ## 正常使用样式
 
