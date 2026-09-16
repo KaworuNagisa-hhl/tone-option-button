@@ -11,7 +11,7 @@ import {
   SwiftUIComponentConfig,
   SwiftUIPalette,
   SwiftUITone
-} from 'theme'
+} from '@kaworunagisa_hhl/theme'
 
 @Component
 export struct SwiftUIToneOptionButton {

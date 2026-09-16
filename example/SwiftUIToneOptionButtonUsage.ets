@@ -1,5 +1,5 @@
-import { SwiftUIToneOptionButton } from 'tone-option-button'
-import { SwiftUITone } from 'theme'
+import { SwiftUIToneOptionButton } from '@kaworunagisa_hhl/tone-option-button'
+import { SwiftUITone } from '@kaworunagisa_hhl/theme'
 
 @Component
 export struct SwiftUIToneOptionButtonUsage {
