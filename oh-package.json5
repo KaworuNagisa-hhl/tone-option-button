@@ -1,7 +1,7 @@
 {
   "modelVersion": "6.0.2",
-  "name": "@kaworunagisa_hhl/tone-option-button",
-  "version": "1.0.3",
+  "name": "tone-option-button",
+  "version": "1.0.4",
   "description": "OpenHarmony/HarmonyOS ArkUI like-ios 色调选择按钮组件，适合主题色、状态色与偏好配置选择。提供 homepage、example 示例目录与清晰的 README 使用说明。",
   "main": "Index.ets",
   "author": { "name": "KaworuNagisa-hhl", "url": "https://github.com/KaworuNagisa-hhl" },
@@ -21,6 +21,6 @@
     "control"
   ],
   "dependencies": {
-    "@kaworunagisa_hhl/theme": "file:../theme"
+    "theme": "file:../theme"
   }
 }

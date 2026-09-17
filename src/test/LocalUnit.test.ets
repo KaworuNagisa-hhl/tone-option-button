@@ -1,5 +1,5 @@
 import { describe, it, expect } from '@ohos/hypium'
-import { getSwiftUIToneTitle, SwiftUITone } from '@kaworunagisa_hhl/theme'
+import { getSwiftUIToneTitle, SwiftUITone } from 'theme'
 
 export default function localUnitTest() {
   describe('SwiftUIToneOptionButton', () => {
